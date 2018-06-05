@@ -1,7 +1,7 @@
 # admin
 get all business and jobs and categories
 
-#foxx api creation
+# foxx api creation
 1. first we need to install arangodb and after install if we run we will get 0.0.0.0:8529 web page
 2. we have login page and we can login with  username 'root' and password ''
 3. we will get one _system database here we can create anther database in db tab
